@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="textGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#c4a25e"/>
+      <stop offset="60%" stop-color="#9a6f1e"/>
+      <stop offset="100%" stop-color="#7a5c1e"/>
+    </linearGradient>
+  </defs>
+
+  <!-- LL mark only — no background, transparent -->
+  <text
+    x="100" y="148"
+    font-family="'Palatino Linotype', 'Book Antiqua', Palatino, Georgia, serif"
+    font-size="120"
+    font-weight="700"
+    fill="url(#textGold)"
+    text-anchor="middle"
+    letter-spacing="6"
+  >LL</text>
+</svg>
